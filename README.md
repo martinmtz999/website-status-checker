@@ -50,10 +50,3 @@ Expected JSON file output with previous positional URLs:
     { "url": "https://example.com", "status": 200, "time_ms": 71, "timestamp": 1746823581 },
     { "url": "https://does-not-exist.invalid", "status": "error sending request for url (https://does-not-exist.invalid/)", "time_ms": 128, "timestamp": 1746823581 }
   ]
-
-
-
-
-
-
- 
