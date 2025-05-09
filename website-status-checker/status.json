@@ -1,0 +1,7 @@
+[
+  { "url": "https://www.google.com/", "status": 200, "time_ms": 90, "timestamp": 1746824406 },
+  { "url": "https://www.youtube.com/", "status": 200, "time_ms": 171, "timestamp": 1746824406 },
+  { "url": "https://www.utrgv.edu/", "status": 200, "time_ms": 343, "timestamp": 1746824406 },
+  { "url": "https://store.steampowered.com/", "status": 200, "time_ms": 477, "timestamp": 1746824406 },
+  { "url": "https://vndb.org/", "status": 200, "time_ms": 952, "timestamp": 1746824407 }
+]
